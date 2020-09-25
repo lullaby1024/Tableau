@@ -6,7 +6,7 @@ This repo serves as a collection of Tableau dashboards I built.
 <img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape.png" width="80%">
 
 - [Competitive Landscape Analysis - Mission Similarities](https://public.tableau.com/profile/qi.feng1229#!/vizhome/CompetitiveLanscape-MissionSimilarity/Dashboard2). Data source: internal. Not public.
-<img src="https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape_missions.png" width="80%">
+![missions](https://github.com/lullaby1024/Competitive_Landscape_Analysis/blob/master/img/competitive_landscape_missions.gif)
 
 - [SMS Spam Message Detection](https://public.tableau.com/profile/qi.feng1229#!/vizhome/SpamAnalysis/SpamAnalysisfromTrainingData?publish=yes). Data source: [UCI SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
 ![spam demo](https://github.com/lullaby1024/Spam_Detection/blob/master/img/tableau_demo.gif)
